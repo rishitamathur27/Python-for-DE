@@ -1,1 +1,0 @@
-In this project, I have built an ETL(Extract, Transform, Load) pipeline using the Spotify API on AWS from scratch. The pipeline will retrieve data from teh Spotify API, transform it to a desired format, and load it into an AWS data store.
